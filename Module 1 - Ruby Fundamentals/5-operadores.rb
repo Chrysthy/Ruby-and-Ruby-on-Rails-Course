@@ -9,5 +9,9 @@ sum = num1 + num2
 subt = num1 - num2
 divs = num1 / num2
 mult = num1 * num2
+mod = num1 % num2 #calcula o resto
+exp = num1 ** num2 #exponenciação
 
-puts sum, subt, divs, mult
+puts sum, subt, divs, mult, mod, exp
+
+#Operadores de Atribuição
