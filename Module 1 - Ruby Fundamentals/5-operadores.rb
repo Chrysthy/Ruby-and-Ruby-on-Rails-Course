@@ -47,3 +47,10 @@ smaller_equal = num1 <= num2
 #Operadores lógicos
 puts ((2 > 4) and (3 > 1)) # os dois precisam ser verdadeiros para dar TRUE, se um for false o retorno é FALSE
 puts ((2 > 4) or (3 > 1)) #se um deles for verdadeiro, retorna TRUE
+
+
+#Operadores especiais
+#para retornar valores de 1 a 5, em outras linguagens usaria um laço de repetição
+print (1..5).to_a #usando o .. vai retornar 1,2,3,4,5 e .to_a é um array
+
+print ('a'..'z').to_a #funciona também com caracteres
