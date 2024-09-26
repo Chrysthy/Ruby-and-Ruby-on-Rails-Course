@@ -27,5 +27,10 @@ puts "Nome do filme: #{name}"
 puts "Ano de lançamento: #{yearLaunch}"
 puts "Preço do filme: #{price}"
     
-#dessa forma, não é necessário fazer a converção com o .to_s
+#Utilizando a forma 2, não é necessário fazer a converção com o .to_s
     
+#3ª forma de fazer usando um único puts
+puts "Nome do filme: #{name}, Ano de Lançamento: #{yearLaunch}, Preço do filme: #{price}"
+puts "Nome do filme: #{name}\n Ano de Lançamento: #{yearLaunch}\n Preço do filme: #{price}"
+
+#podemos usar o \n para quebar as linhas. É necessário tirar as vírgulas
