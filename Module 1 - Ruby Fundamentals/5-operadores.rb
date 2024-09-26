@@ -59,3 +59,12 @@ print ('a'..'z').to_a #funciona também com caracteres
 #Precedência de operadores
 puts 3 + 2 * 5 #primeiro a multiplicação e depois a soma
 puts (3 + 2) * 5 #no parênteses, faz a soma e depois a multiplicação
+
+
+#Operador Binay left shift 
+#trabalhar de forma incremetal em um determinado valor
+name =""
+name << "Fulano"
+name << "Sicrano"
+
+puts name
