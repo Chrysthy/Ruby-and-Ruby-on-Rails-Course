@@ -15,3 +15,8 @@ exp = num1 ** num2 #exponenciação
 puts sum, subt, divs, mult, mod, exp
 
 #Operadores de Atribuição
+num1 += 1 # num1 = num1 + 1
+num1 -= 1 # num1 = num1 - 1
+num1 /= 1 # num1 = num1 / 1
+num1 *= 1 # num1 = num1 * 1
+
