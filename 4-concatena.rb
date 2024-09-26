@@ -34,3 +34,12 @@ puts "Nome do filme: #{name}, Ano de Lançamento: #{yearLaunch}, Preço do filme
 puts "Nome do filme: #{name}\n Ano de Lançamento: #{yearLaunch}\n Preço do filme: #{price}"
 
 #podemos usar o \n para quebar as linhas. É necessário tirar as vírgulas
+
+#4ª forma de fazer usando uma string Multilinha
+puts <<~MULTILINE_STRING
+
+    Nome do filme: #{name}
+    Ano de lançamento: #{yearLaunch}
+    Preço do filme: #{price}
+
+MULTILINE_STRING
