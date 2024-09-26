@@ -20,3 +20,15 @@ num1 -= 1 # num1 = num1 - 1
 num1 /= 1 # num1 = num1 / 1
 num1 *= 1 # num1 = num1 * 1
 
+
+#Atribuição paralela
+a = 5
+b = 4
+
+#a mesma coisa do de cima
+a, b = 5, 4
+
+#invertendo os valores
+a, b = b, a
+
+puts  a, b
