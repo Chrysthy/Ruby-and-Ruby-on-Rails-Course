@@ -54,3 +54,8 @@ puts ((2 > 4) or (3 > 1)) #se um deles for verdadeiro, retorna TRUE
 print (1..5).to_a #usando o .. vai retornar 1,2,3,4,5 e .to_a é um array
 
 print ('a'..'z').to_a #funciona também com caracteres
+
+
+#Precedência de operadores
+puts 3 + 2 * 5 #primeiro a multiplicação e depois a soma
+puts (3 + 2) * 5 #no parênteses, faz a soma e depois a multiplicação
