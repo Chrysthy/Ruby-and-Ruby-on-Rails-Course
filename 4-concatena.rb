@@ -22,3 +22,10 @@ puts "Preço do filme: " + price.to_s
 #colocamos to_s para converte de números para string
 #é necessário colocar para não dar erro quando rodar o código, pois gets.chomp sempre retorna uma string
 
+#2ª forma de fazer usando #{}
+puts "Nome do filme: #{name}"
+puts "Ano de lançamento: #{yearLaunch}"
+puts "Preço do filme: #{price}"
+    
+#dessa forma, não é necessário fazer a converção com o .to_s
+    
