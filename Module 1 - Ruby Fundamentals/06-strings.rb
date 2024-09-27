@@ -5,3 +5,10 @@ name2 = "de volta para o futuro"
 
 puts name == name2 #false
 
+
+description = "O filme trata de uma viagem no tempo em que um jovem chamado Marty McFly é transportado para o passado."
+
+#Formatar: tab (vai para direita) e shift + tab volta pra esquerda
+description2 = <<Text
+   O filme #{name} é um clássico de 1985 que trata sobre viagem no tempo.
+Text
