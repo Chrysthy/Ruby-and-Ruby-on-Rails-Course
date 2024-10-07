@@ -18,3 +18,7 @@ puts description[0..4] #retorna os 4 primeiros caracteres, o útimo é incluído
 puts description.slice(0)
 puts description.slice(0,4)
 puts description.slice(0..4)
+
+# 2-Quebrando uma string
+print description.split() #quebra a frase por palavras
+print description.split("uma") #retira a palavra "uma" da frase
