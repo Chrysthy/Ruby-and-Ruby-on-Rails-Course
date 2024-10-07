@@ -25,3 +25,6 @@ print description.split("uma") #retira a palavra "uma" da frase
 
 # 3-Quebrando em caracteres
 print description.chars #soletra a frase inteira
+
+# 4- Conta ocorrência de caracteres
+puts description.count("a") #contar quantos caracteres "a" tem 
