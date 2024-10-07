@@ -22,3 +22,6 @@ puts description.slice(0..4)
 # 2-Quebrando uma string
 print description.split() #quebra a frase por palavras
 print description.split("uma") #retira a palavra "uma" da frase
+
+# 3-Quebrando em caracteres
+print description.chars #soletra a frase inteira
