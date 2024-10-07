@@ -28,3 +28,10 @@ print description.chars #soletra a frase inteira
 
 # 4- Conta ocorrência de caracteres
 puts description.count("a") #contar quantos caracteres "a" tem 
+
+# 5-Maiúsculo e Minúsculo
+puts description.upcase #todas maiúsculas
+puts description.downcase #todas minúsculas
+puts description.capitalize #apenas a primeira mauíscula
+puts description.swapcase #apenas e primera minúscula e todo resto maiúscula
+puts description.chop #remove o último caractere
