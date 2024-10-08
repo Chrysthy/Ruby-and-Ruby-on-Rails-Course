@@ -38,3 +38,27 @@ moviesList.each do |movie|
     puts movie
 
 end
+
+# 4-Avaliação do Filme
+puts "Digite o nome do filme"
+movieName = gets.chomp
+
+puts "Digite quantas avaliações deseja fazer no filme:"
+moviesRating = gets.chomp.to_i
+
+sum = 0
+
+moviesRating.times do  #Podemos usar também o times além do each também
+
+    puts "Digite a nota para o filme:"
+
+    note = gets.chomp.to_f
+
+    sum += note
+    
+end
+
+    average = sum / moviesRating
+
+    puts "Média de avaliação do filme #{movieName} é %.2f" %average
+
