@@ -21,4 +21,11 @@ moviesList.each do |movie|  #Chama o array.each do, passa a variavél de control
 
 end
 
+# 2-Utilizando o break - Quando uma condição for atendida o loop vai ser encerrado
+moviesList.each do |movie|
 
+    break if movie == "Resident Evil"
+
+    puts movie
+
+end
