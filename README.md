@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem do Curso" src=".github/ruby.PNG" width="50%">
+  <img alt="Imagem do Curso" src=".github/ruby.PNG" width="48%">
 </p>
 
 <br>
@@ -28,33 +28,33 @@
 - Ruby;
 - Ruby on Rails.
 
-<br>
+
 
 ## ✨ Features
 
-* **_Ruby Fundamentos_**
-* **_Arquivos, Módulos e Gems_**
-* **_POO_**
-* **_Banco de Dados SQL_**
-* **_Integração com Banco de Dados_**
-* **_Ruby Avançado_**
-* **_Rails Fundamentos_**
-* **_Aprofundando em Model_**
-* **_Aprofundando em Controller_**
-* **_Aprofundando em View_**
-* **_Autenticação e Autorização_**
-* **_Desenvolvimento do Blog_**
-* **_Teste com RSPEC_**
-* **_Desenvolvimento de APIs_**
-* **_Deployment_**
-* **_Projeto Final_**
+* _Ruby Fundamentos_
+* _Arquivos, Módulos e Gems_
+* _POO_
+* _Banco de Dados SQL_
+* _Integração com Banco de Dados_
+* _Ruby Avançado_
+* _Rails Fundamentos_
+* _Aprofundando em Model_
+* _Aprofundando em Controller_
+* _Aprofundando em View_
+* _Autenticação e Autorização_
+* _Desenvolvimento do Blog_
+* _Teste com RSPEC_
+* _Desenvolvimento de APIs_
+* _Deployment_
+* _Projeto Final_
 
  
 <br>
 
 ## 💻 Repository Information
 
-- This repository was created to practice the exercises proposed by the professors..
+- This repository was created to practice the exercises proposed by the professor.
 
 <br>
 
