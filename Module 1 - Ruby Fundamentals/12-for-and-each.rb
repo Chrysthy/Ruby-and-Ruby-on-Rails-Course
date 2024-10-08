@@ -29,3 +29,12 @@ moviesList.each do |movie|
     puts movie
 
 end
+
+# 3-Utilizando o next - ao invés de cancelar o loop, ele pula a iteração para a próxima
+moviesList.each do |movie|
+
+    next if movie == "Silent Hill"
+
+    puts movie
+
+end
