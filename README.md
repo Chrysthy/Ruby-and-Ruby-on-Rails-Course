@@ -1,4 +1,4 @@
-<h1 align="center"> Ruby and Ruby on Rails Course </h1> 
+<h1 align="center"> Ruby and Ruby on Rails 💎 </h1> 
 
 <p align="center">Ruby and Ruby on Rails Course from <a href="https://cursos.onebitcode.com">One Bit Code</a>.
 
