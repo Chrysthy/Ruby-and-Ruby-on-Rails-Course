@@ -17,6 +17,19 @@
 
 <br>
 
+<p align="center">
+  <img alt="Imagem do Curso" src=".github/logo-descomplica-black.png" width="80%">
+</p>
+
+<br>
+
+## 🛠 Technologies
+
+- Ruby;
+- Ruby on Rails.
+
+<br>
+
 
 
 
