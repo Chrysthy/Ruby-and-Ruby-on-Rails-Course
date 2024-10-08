@@ -47,3 +47,7 @@ puts description.gsub("tempo", "espaço") #altera a palavra tempo por espaço
 puts "Ruby".center(10, "-") #faz com que o texto possa estar centralizado. Permite dizer em qual index de caracteres ele vai estar centralizado. Então vai centralizar no índice 10 e até chegar o indice dez, preenche com o hifem
 puts "=" * 20 # faz com que o caractere seja multiplicado 20 vezez
 puts description.include?("filme") #verificar se uma palavra se encontra dentro de um texto. A pergunta seria, existe a palavra filme dentro da minha description?
+
+puts "     Ruby".lstrip#método para remover espaçoes em branco a esquerda
+puts "Ruby         ".lstrip #método para remover espaçoes em branco a direita
+puts "     Ruby        ".lstrip #método para remover espaçoes em branco
