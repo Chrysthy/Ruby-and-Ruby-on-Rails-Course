@@ -39,3 +39,11 @@ puts description.chop #remove o último caractere
 # 6-Verificação do índice
 puts description.index("viagem")
 puts description.index("filme")
+
+# 7- Alterar palavras
+puts description.gsub("tempo", "espaço") #altera a palavra tempo por espaço
+
+# 8-Outras operações
+puts "Ruby".center(10, "-") #faz com que o texto possa estar centralizado. Permite dizer em qual index de caracteres ele vai estar centralizado. Então vai centralizar no índice 10 e até chegar o indice dez, preenche com o hifem
+puts "=" * 20 # faz com que o caractere seja multiplicado 20 vezez
+puts description.include?("filme") #verificar se uma palavra se encontra dentro de um texto. A pergunta seria, existe a palavra filme dentro da minha description?
