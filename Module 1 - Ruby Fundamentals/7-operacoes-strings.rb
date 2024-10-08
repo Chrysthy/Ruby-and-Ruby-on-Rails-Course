@@ -35,3 +35,7 @@ puts description.downcase #todas minúsculas
 puts description.capitalize #apenas a primeira mauíscula
 puts description.swapcase #apenas e primera minúscula e todo resto maiúscula
 puts description.chop #remove o último caractere
+
+# 6-Verificação do índice
+puts description.index("viagem")
+puts description.index("filme")
