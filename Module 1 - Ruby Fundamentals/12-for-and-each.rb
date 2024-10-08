@@ -5,3 +5,9 @@ for i in 1..5  #vai estar iterando esses itens de 1 a 5 e a cada iteração jopa
 
 end
 
+# Alternativa 2 - Usando o each
+(1..5).each do |i|
+
+    puts i
+
+end
