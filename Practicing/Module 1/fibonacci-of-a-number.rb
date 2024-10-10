@@ -23,3 +23,7 @@ valorAnteriroFibonacci = 0
 while fibonacci <= number
 
     puts fibonacci
+
+    valorAnteriroFibonacci, fibonacci = fibonacci, fibonacci+valorAnteriroFibonacci
+
+end
