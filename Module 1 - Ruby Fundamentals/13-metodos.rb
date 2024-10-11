@@ -18,3 +18,7 @@ def sum()
 end
 
 sum()
+
+# 3- Método para cadastrar filmes
+
+def create_movie 
