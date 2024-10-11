@@ -16,4 +16,4 @@ def sum(a, b)
 end
 
 puts sum(10, 20)
-#Quando utilizamos o retunr, temos que mostrar na tela de algum jeito, por isso colocamos puts da frente antes de chamar a função
+#Quando utilizamos o return, ele retornar o valor mas temos que mostrar na tela de algum jeito, por isso colocamos puts da frente antes de chamar a função
