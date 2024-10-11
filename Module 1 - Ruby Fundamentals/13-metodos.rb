@@ -30,4 +30,11 @@ def create_movie
     yearLaunch = gets.chomp.to_i
 
     puts "Digite o preço do filme:"
-    price = gets.chomp.to_i
+    price = gets.chomp.to_f
+
+    puts "#{name} - R$ #{price}"
+
+end
+
+create_movie()
+create_movie()
