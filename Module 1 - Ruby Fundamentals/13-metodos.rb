@@ -24,6 +24,10 @@ sum()
 def create_movie 
 
     puts "Digite o nome do filme:"
-        name = gets.chomp
+    name = gets.chomp
     
-        
+    puts "Digite o ano do filme:"
+    yearLaunch = gets.chomp.to_i
+
+    puts "Digite o preço do filme:"
+    price = gets.chomp.to_i
