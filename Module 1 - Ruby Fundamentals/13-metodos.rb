@@ -22,3 +22,8 @@ sum()
 # 3- Método para cadastrar filmes
 
 def create_movie 
+
+    puts "Digite o nome do filme:"
+        name = gets.chomp
+    
+        
