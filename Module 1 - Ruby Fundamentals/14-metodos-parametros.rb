@@ -27,3 +27,7 @@ end
 
 address()
 address("Portugal")
+
+# 4-Avaliação do Filme
+def rating_movie(qtdRating)
+
