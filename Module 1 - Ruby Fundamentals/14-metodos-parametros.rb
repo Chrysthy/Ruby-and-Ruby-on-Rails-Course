@@ -17,3 +17,13 @@ end
 
 puts sum(10, 20)
 #Quando utilizamos o return, ele retornar o valor mas temos que mostrar na tela de algum jeito, por isso colocamos puts da frente antes de chamar a função
+
+# 3-Argumentos default em um método
+def address (contry = "Brasil")
+
+  puts "Eu moro no #{contry}"
+
+end
+
+address()
+address("Portugal")
