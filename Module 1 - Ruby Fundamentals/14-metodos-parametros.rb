@@ -35,5 +35,10 @@ def rating_movie(qtdRating)
     movie_name = gets.chomp
   
     sum = 0
+    for i in 1..qtdRating
+  
+      puts "Digite a nota para o filme:"
+      note = gets.chomp.to_f
+      sum += note
   
 
