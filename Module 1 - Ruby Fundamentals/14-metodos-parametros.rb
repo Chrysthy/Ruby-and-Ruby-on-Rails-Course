@@ -31,3 +31,9 @@ address("Portugal")
 # 4-Avaliação do Filme
 def rating_movie(qtdRating)
 
+  puts "Informe o nome do filme:"
+    movie_name = gets.chomp
+  
+    sum = 0
+  
+
