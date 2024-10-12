@@ -31,7 +31,7 @@ address("Portugal")
 # 4-Avaliação do Filme
 def rating_movie(qtdRating)
 
-  puts "Informe o nome do filme:"
+    puts "Informe o nome do filme:"
     movie_name = gets.chomp
   
     sum = 0
@@ -40,5 +40,15 @@ def rating_movie(qtdRating)
       puts "Digite a nota para o filme:"
       note = gets.chomp.to_f
       sum += note
-  
 
+    end
+
+    puts "Média de avaliação do filme #{movie_name} é #{sum / qtdRating}"
+
+end
+  
+puts "Deseja fazer quantas avaliaçãoes?"
+
+rating = gets.chomp.to_i
+
+rating_movie(rating)
