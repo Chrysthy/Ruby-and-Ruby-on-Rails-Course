@@ -33,3 +33,6 @@ puts power.call(4)
 par = lambda { |x| x % 2 == 0 }
 puts par.call(5)
 
+# 4- função que divide um número por outro
+divNum = lambda { |x, y| x / y}
+puts divNum.call(10, 5)
