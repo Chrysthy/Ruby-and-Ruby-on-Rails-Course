@@ -21,3 +21,8 @@ end
 
 one_two_three { |number| puts number *10 }
 #o parâmetro é o number dentro dos pipes
+
+# 2- Lambda - funcões anômimas
+
+power = lambda { |num| num ** 2 }
+puts power.call(4)
