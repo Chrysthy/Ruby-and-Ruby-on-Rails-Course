@@ -26,3 +26,10 @@ one_two_three { |number| puts number *10 }
 
 power = lambda { |num| num ** 2 }
 puts power.call(4)
+
+#para chamar a função anônima, utilizamos o .call()
+
+# 3- Função que verifica se o número é par
+par = lambda { |x| x % 2 == 0 }
+puts par.call(5)
+
