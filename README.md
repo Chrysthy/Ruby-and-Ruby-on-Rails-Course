@@ -5,7 +5,7 @@
 <p align="center">  
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-repository-information">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-repository-description">Repository Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>  
 
 </p>
@@ -28,7 +28,14 @@
 - Ruby;
 - Ruby on Rails.
 
+<br>
 
+## 🛠 Technologies
+
+- Ruby
+- Ruby on Rails
+
+<br>
 
 ## ✨ Features
 
@@ -49,6 +56,26 @@
 - Deployment
 - Final Project
 
+<br>
+
+## ✨ Features
+
+- Ruby Fundamentals
+- Files, Modules, and Gems
+- Object-Oriented Programming (OOP)
+- SQL Database
+- Database Integration
+- Advanced Ruby
+- Rails Fundamentals
+- In-depth Models
+- In-depth Controllers
+- In-depth Views
+- Authentication and Authorization
+- Blog Development
+- Testing with RSpec
+- API Development
+- Deployment
+- Final Project
  
 <br>
 
