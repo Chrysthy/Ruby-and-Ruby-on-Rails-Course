@@ -66,7 +66,7 @@
   
 <br>
 
- ## 🤝 Contributing
+## 🫱🏻‍🫲🏻 Contributing
 Contributions are welcome! Please read the contributing guidelines for more information.
 
 
