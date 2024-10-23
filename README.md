@@ -32,22 +32,22 @@
 
 ## ✨ Features
 
-* _Ruby Fundamentos_
-* _Arquivos, Módulos e Gems_
-* _POO_
-* _Banco de Dados SQL_
-* _Integração com Banco de Dados_
-* _Ruby Avançado_
-* _Rails Fundamentos_
-* _Aprofundando em Model_
-* _Aprofundando em Controller_
-* _Aprofundando em View_
-* _Autenticação e Autorização_
-* _Desenvolvimento do Blog_
-* _Teste com RSPEC_
-* _Desenvolvimento de APIs_
-* _Deployment_
-* _Projeto Final_
+- Ruby Fundamentals
+- Files, Modules, and Gems
+- Object-Oriented Programming (OOP)
+- SQL Database
+- Database Integration
+- Advanced Ruby
+- Rails Fundamentals
+- In-depth Models
+- In-depth Controllers
+- In-depth Views
+- Authentication and Authorization
+- Blog Development
+- Testing with RSpec
+- API Development
+- Deployment
+- Final Project
 
  
 <br>
